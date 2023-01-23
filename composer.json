@@ -1,0 +1,13 @@
+{
+    "name": "cristian/fight-arena",
+    "authors": [
+        {
+            "name": "Cristian Angheluta",
+            "email": "cristianangheluta95@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [ "app/"]
+    }
+}
